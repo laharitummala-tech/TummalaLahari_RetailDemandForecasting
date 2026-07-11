@@ -49,8 +49,9 @@ Performance:
 ## Repository Structure
 
 ```
-notebooks/
-reports/
+data
+notebook
+process_doc
 README.md
 requirements.txt
 ```
@@ -59,8 +60,8 @@ requirements.txt
 
 ## Files
 
-- `Retail_Sales_Forecasting.ipynb` – Complete implementation
-- `Process_Flow_Document.pdf` – Detailed workflow documentation
+- `TummalaLahari_RetailDemandForecasting.ipynb` – Complete implementation
+- `Retail_Demand_Forecasting_Process_Flow.pdf` – Detailed workflow documentation
 
 ---
 
